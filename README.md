@@ -14,4 +14,4 @@
 
 ### License
 
-(This is released under Cretive Commons)
+(This is released under Cretive Commons)(https://creativecommons.org/licenses/by/4.0/legalcode)
